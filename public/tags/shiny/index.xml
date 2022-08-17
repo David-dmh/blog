@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny on David Herbert</title>
+    <link>https://david-dmh.github.io/David_Herbert/tags/shiny/</link>
+    <description>Recent content in Shiny on David Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://david-dmh.github.io/David_Herbert/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AU Property App</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-6/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-6/</guid>
+      <description>Sourcing deals for rental property investing can be a challenging process. Not only does extensive searching need to be done but deal analysis needs must be thorough in order to determine whether a property can be a deal. This app serves as a tool which queries a real estate listing site and loads data into a data warehouse. Thereafter, the data is served along with user-defined master data in order to present useful functionalities for investors such as summary market statistics, a geocoded plot of property locations, lead generator, and investment deal calculator.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Abalone</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-3/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-3/</guid>
+      <description>A non-machine learning study by Nash et. al gave rise to the popular abalone dataset. When used in a machine learning context, the goal is generally to construct a model which is able to predict the number of rings on the body of given abalone. This measure is useful since the number of rings can be used to estimate abalone age, adding 1.5 to the number of rings gives the age.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Warehouse Data Visualisation</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-2/</link>
+      <pubDate>Tue, 16 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-2/</guid>
+      <description>In collaboration with a supply chain professional, we obtained data from a warehouse (anonymised) with a year&amp;rsquo;s worth of data. The file detailed various metrics tracked by the warehouse manager over time. Our aim was to create a web application to allow for easy visualisation of the data. A fit could also be applied to the data as a basis for forecasting particular supply chain metrics. Despite being simple in design, the web application served the primary purpose of visualising data at scale.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on David Herbert</title>
+    <link>https://david-dmh.github.io/David_Herbert/post/</link>
+    <description>Recent content in Projects on David Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://david-dmh.github.io/David_Herbert/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AU Property App</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-6/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-6/</guid>
+      <description>Sourcing deals for rental property investing can be a challenging process. Not only does extensive searching need to be done but deal analysis needs must be thorough in order to determine whether a property can be a deal. This app serves as a tool which queries a real estate listing site and loads data into a data warehouse. Thereafter, the data is served along with user-defined master data in order to present useful functionalities for investors such as summary market statistics, a geocoded plot of property locations, lead generator, and investment deal calculator.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Real Estate API</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-5/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-5/</guid>
+      <description>Real estate investing requires extensive deal analysis involving listing data and other key market and finance metrics. Flask was used to design a static database API to be used as a backend framework for advanced deal analysis applications. CI/CD automation was achieved using Heroku CI and simple unit testing with unittest was done. Data was obtained from realestate.com.au, a publically available Australian property site. Naturally, the API would be extended by including additional data required for analysis and updating the data in batch / real-time.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Holiday ETL</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-4/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-4/</guid>
+      <description>Calendar-based Application Programming Interfaces (APIs) are used extensively in industries such as travel, banking, finance and supply chain. Looking to familiarise myself with the ETL (Extract Transform Load) process, these APIs inspired me to create an app for automation of extraction and delivery of calendar data to end-users. With automated information retrieval from the API service, the tedious process of working with the API directly is avoided. Django and APScheduler were primarily used to schedule emails from the nager.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Abalone</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-3/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-3/</guid>
+      <description>A non-machine learning study by Nash et. al gave rise to the popular abalone dataset. When used in a machine learning context, the goal is generally to construct a model which is able to predict the number of rings on the body of given abalone. This measure is useful since the number of rings can be used to estimate abalone age, adding 1.5 to the number of rings gives the age.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Warehouse Data Visualisation</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-2/</link>
+      <pubDate>Tue, 16 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-2/</guid>
+      <description>In collaboration with a supply chain professional, we obtained data from a warehouse (anonymised) with a year&amp;rsquo;s worth of data. The file detailed various metrics tracked by the warehouse manager over time. Our aim was to create a web application to allow for easy visualisation of the data. A fit could also be applied to the data as a basis for forecasting particular supply chain metrics. Despite being simple in design, the web application served the primary purpose of visualising data at scale.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Data Science Job Analysis</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-1/</link>
+      <pubDate>Fri, 23 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-1/</guid>
+      <description>Data collection was performed by modifying a prebuilt scraper (credits to https://github.com/arapfaik/scraping-glassdoor-selenium) to my use case. Using Selenium it was possible to extract job posting information regarding different data science related job titles in various countries. Jupyter notebook was used for importing and cleaning the data. Exploratory data analysis was then performed to get some interesting insights into job profiles.    View the project on Github:
+David-dmh/Data-Science-Job-Analysis</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-arch3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-arch3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

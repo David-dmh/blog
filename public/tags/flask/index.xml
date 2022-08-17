@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on David Herbert</title>
+    <link>https://david-dmh.github.io/David_Herbert/tags/flask/</link>
+    <description>Recent content in Flask on David Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://david-dmh.github.io/David_Herbert/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: Real Estate API</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-5/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-5/</guid>
+      <description>Real estate investing requires extensive deal analysis involving listing data and other key market and finance metrics. Flask was used to design a static database API to be used as a backend framework for advanced deal analysis applications. CI/CD automation was achieved using Heroku CI and simple unit testing with unittest was done. Data was obtained from realestate.com.au, a publically available Australian property site. Naturally, the API would be extended by including additional data required for analysis and updating the data in batch / real-time.</description>
+    </item>
+    
+  </channel>
+</rss>

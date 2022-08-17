@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on David Herbert</title>
+    <link>https://david-dmh.github.io/David_Herbert/tags/django/</link>
+    <description>Recent content in Django on David Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://david-dmh.github.io/David_Herbert/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Holiday ETL</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-4/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-4/</guid>
+      <description>Calendar-based Application Programming Interfaces (APIs) are used extensively in industries such as travel, banking, finance and supply chain. Looking to familiarise myself with the ETL (Extract Transform Load) process, these APIs inspired me to create an app for automation of extraction and delivery of calendar data to end-users. With automated information retrieval from the API service, the tedious process of working with the API directly is avoided. Django and APScheduler were primarily used to schedule emails from the nager.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ETL on David Herbert</title>
+    <link>https://david-dmh.github.io/David_Herbert/tags/etl/</link>
+    <description>Recent content in ETL on David Herbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://david-dmh.github.io/David_Herbert/tags/etl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AU Property App</title>
+      <link>https://david-dmh.github.io/David_Herbert/post/project-6/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-dmh.github.io/David_Herbert/post/project-6/</guid>
+      <description>Sourcing deals for rental property investing can be a challenging process. Not only does extensive searching need to be done but deal analysis needs must be thorough in order to determine whether a property can be a deal. This app serves as a tool which queries a real estate listing site and loads data into a data warehouse. Thereafter, the data is served along with user-defined master data in order to present useful functionalities for investors such as summary market statistics, a geocoded plot of property locations, lead generator, and investment deal calculator.</description>
+    </item>
+    
+  </channel>
+</rss>
