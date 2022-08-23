@@ -32,10 +32,10 @@ Hover over a listing to view the precise address.
 
 - **Leads**:  
 Based on user-defined master data, e.g. downpayment 
-percent, loan interest rate, desired ROI, current fact 
-data is displayed with a calculated column of whether 
-the property would make sense as deal based on your 
-numbers ('Buy' or 'Pass').
+percent, loan interest rate, and desired ROI, current 
+fact data is displayed with a calculated column of 
+whether the property would make sense as deal based on 
+your numbers ('Buy' or 'Pass').
 {{< figure src="/images/project-6-3.png" title="" >}} 
 
 - **Calculator**:  
