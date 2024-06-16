@@ -2,12 +2,15 @@
 title: Contact
 featured_image: "images/notebook.jpg"
 omit_header_text: true
-description: We'd love to hear from you
+description: Contact
 type: page
 menu: main
 
 ---
-You can contact me on these platforms or submit a form below:
+Contact me using one of the methods below:
+
+<!--
+-->
 
 [**LinkedIn**](https://www.linkedin.com/in/davidmherbert/)  
 [**GitHub**](https://github.com/David-dmh)

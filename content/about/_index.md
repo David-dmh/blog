@@ -1,10 +1,11 @@
 ---
 title: "About"
-description: "Hello, my name is David Herbert. I am a data engineer based in Cape Town. I am constantly looking to expand my engineering and analytics skillset. On this blog site I showcase projects I have found interesting to work on while improving my skills."
-featured_image: '/images/about_3.PNG'
+description: "As a data engineering consultant based in Aberdeen, Scotland,  
+I focus on using data to solve business problems. I enjoy keeping up to date 
+with best practices within the tech industry and networking with like-minded  professionals. Here I showcase projects which I have worked on while 
+exploring various data and software development tools and architectures."
+featured_image: '/images/about_4.png'
 ---
 
 <!-- {{<figure src="/images/About.PNG" alt="portrait" title="">}} 
 
-**Overview:**
-Currently I am a postgraduate student at Stellenbosch University. My specialisation is in data science within the industrial engineering field. I also have a keen interest in the healthcare, logistics and supply chain domains developed from my undergraduate studies. -->

@@ -1,5 +1,5 @@
 ---
-title: "My Portfolio"
-featured_image: '/images/CT.PNG'
+title: " "
+featured_image: '/images/index_2.png'
 description: ""
 ---
