@@ -3,7 +3,7 @@ date: 2022-08-08
 description: "Property investing lead generator and investment analysis tool."
 featured_image: "/images/dwmap2.png"
 tags: ["Python", "R", "Shiny", "ETL"]
-title: "AU Property App"
+title: "Project 6: AU Property App"
 ---
 - Sourcing deals for rental property investing can be a challenging 
 process. Not only does extensive searching need to be done but deal 
