@@ -7,8 +7,8 @@ title: "Project 6: AU Property App"
 ---
 - Sourcing deals for rental property investing can be a challenging 
 process. Not only does extensive searching need to be done but deal 
-analysis needs must be thorough in order to determine whether a 
-property can be a deal. This app serves as a tool which queries a 
+analysis must be thorough in order to determine whether a 
+property can be cash flow positive. This app serves as a tool which queries a 
 real estate listing site and loads data into a data warehouse. 
 Thereafter, the data is served along with user-defined master data in 
 order to present useful functionalities for investors such as summary 
