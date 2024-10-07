@@ -1,5 +1,5 @@
 title = "David Herbert"
-baseURL = "https://david-dmh.github.io/projects/"
+baseURL = "https://david-dmh.github.io/blog/"
 languageCode = "en-us"
 theme = "ananke"
 # themesDir = "../.."

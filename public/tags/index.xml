@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Herbert</title>
-    <link>https://david-dmh.github.io/projects/tags/</link>
+    <link>https://david-dmh.github.io/blog/tags/</link>
     <description>Recent content in Tags on David Herbert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://david-dmh.github.io/projects/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://david-dmh.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ETL</title>
-      <link>https://david-dmh.github.io/projects/tags/etl/</link>
+      <link>https://david-dmh.github.io/blog/tags/etl/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/etl/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/etl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://david-dmh.github.io/projects/tags/python/</link>
+      <link>https://david-dmh.github.io/blog/tags/python/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/python/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Streaming</title>
-      <link>https://david-dmh.github.io/projects/tags/streaming/</link>
+      <link>https://david-dmh.github.io/blog/tags/streaming/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/streaming/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/streaming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://david-dmh.github.io/projects/tags/r/</link>
+      <link>https://david-dmh.github.io/blog/tags/r/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/r/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shiny</title>
-      <link>https://david-dmh.github.io/projects/tags/shiny/</link>
+      <link>https://david-dmh.github.io/blog/tags/shiny/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/shiny/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/shiny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flask</title>
-      <link>https://david-dmh.github.io/projects/tags/flask/</link>
+      <link>https://david-dmh.github.io/blog/tags/flask/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/flask/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PostgreSQL</title>
-      <link>https://david-dmh.github.io/projects/tags/postgresql/</link>
+      <link>https://david-dmh.github.io/blog/tags/postgresql/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/postgresql/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Django</title>
-      <link>https://david-dmh.github.io/projects/tags/django/</link>
+      <link>https://david-dmh.github.io/blog/tags/django/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/django/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>selenium</title>
-      <link>https://david-dmh.github.io/projects/tags/selenium/</link>
+      <link>https://david-dmh.github.io/blog/tags/selenium/</link>
       <pubDate>Fri, 23 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://david-dmh.github.io/projects/tags/selenium/</guid>
+      <guid>https://david-dmh.github.io/blog/tags/selenium/</guid>
       <description></description>
     </item>
     
