@@ -1,6 +1,6 @@
 # projects
 Instructions for working with the code:
-- Clone locally preferably via SSH
+- Clone locally preferably via SSH protocol
 - Ensure in git repo working dir
 - Work with codebase:
     - Open Powershell, cd to working dir (projects site git repo)
